@@ -1,4 +1,3 @@
-Sometimes, you need to produce some TAPs.
+Deprecated.
 
-Not like when you go to the store, and check to see if the melons are
-ripe.  That's tapping on produce.  This is different.
+Please use [node-tap](https://github.com/isaacs/node-tap) instead.
